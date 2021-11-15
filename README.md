@@ -1,6 +1,8 @@
 # push_swap
 a program that uses specific instructions to sort the numbers from smallest to biggest.
 
+
+
 • The program is composed of 2 stacks named a and b.
 
 • To start with:
@@ -43,6 +45,8 @@ rrb : reverse rotate b - shift down all elements of stack b by 1. The last eleme
 becomes the first one.
 
 rrr : rra and rrb at the same time.
+
+
 
 
 Check if the instructions are correct with the checker provided using this command:
